@@ -1,0 +1,6 @@
+{
+  "name": "Daily Timesheet Tracker",
+  "description": "A simple and elegant daily timesheet tracker with timers, custom activities, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
